@@ -1,0 +1,21 @@
+site_name: Апологетика
+site_url: https://apolosadaageticss.github.io/apologetics/
+
+theme:
+  name: material
+  language: uk
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
