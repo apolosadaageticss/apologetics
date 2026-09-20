@@ -3,7 +3,7 @@ site_url: https://apolosadaageticss.github.io/apologetics/
 
 theme:
   name: material
-  language: uk
+  language: ru
   features:
     - navigation.sections
     - navigation.indexes
